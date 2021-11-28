@@ -1,0 +1,5 @@
+1so.h 2me.hh 1do.hh 2fa.hh 0.8me.hh 0.2kong 4me.hh :
+1so.h 1la.h 1do.hh 1me.hh 2re.hh 1do.hh 0.8me.hh 0.2kong 4me.hh :
+1so.h 2me.hh 1do.hh 2fa.hh 0.8so.hh 0.2kong 4me.hh :
+1so.h 0.8la.h 1do.hh 1me.hh 2re.hh 1do.hh 0.5kong 6do.hh :
+

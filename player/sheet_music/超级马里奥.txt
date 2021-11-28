@@ -1,0 +1,2 @@
+1me.h 1me.h 1me.h 0.5do.h 0.5me.h 0.2kong 3so.h 1so.m :
+0.5do.h 0.5kong 0.5so.m 0.5kong 0.5me.m 0.5kong 0.5la.m 1si.m 0.5la.m 0.25so.m 0.5do.h 0.25me.h 0.5la.h 0.25fa.h 0.5so.h 0.5me.h 0.5re.h 1do.h : 

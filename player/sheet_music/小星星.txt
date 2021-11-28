@@ -1,0 +1,6 @@
+1do.m 1do.m 1so.m 1so.m 1la.m 1la.m 2so.m :
+1fa.m 1fa.m 1me.m 1me.m 1re.m 1re.m 2do.m :
+1so.m 1so.m 1fa.m 1fa.m 1me.m 1me.m 2re.m :
+1so.m 1so.m 1fa.m 1fa.m 1me.m 1me.m 2re.m :
+1do.m 1do.m 1so.m 1so.m 1la.m 1la.m 2so.m :
+1fa.m 1fa.m 1me.m 1me.m 1re.m 1re.m 2do.m :

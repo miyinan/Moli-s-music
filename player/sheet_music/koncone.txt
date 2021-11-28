@@ -1,0 +1,17 @@
+2do.h 2re.h 3me.h 1fa.h 2so.h :
+2la.h 2si.h 3do.hh 1re.hh 2me.hh :
+3me.hh 1re.hh 3do.hh 1si.h 3la.h 1fa.h 2me.h 2re.h :
+2so.h 2si.h 2do.hh 2so.h :
+2re.hh 1so.h 1kong 2me.hh 1do.h 1kong :
+2so.h 2si.h 2do.hh 2so.h :
+1fa.h 1so.h 1me.h 1so.h 4re.h 1kong :
+2do.h 2re.h 3me.h 1fa.h 2so.h :
+2la.h 2si.h 3do.hh 1re.hh 2me.hh :
+3me.hh 1re.hh 3do.hh 1la.h 3so.h 1kong 2do.h :
+
+
+
+
+
+
+
